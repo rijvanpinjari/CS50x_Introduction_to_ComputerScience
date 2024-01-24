@@ -1,1 +1,1 @@
-# CS50_Introduction_Computer_Science
+# CS50x_Introduction_to_ComputerScience
